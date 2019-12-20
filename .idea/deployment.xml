@@ -5,11 +5,11 @@
       <paths name="Color-Picker-Two">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="HTML_and_CSS">
+      <paths name="Server">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />

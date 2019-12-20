@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c067a666-cd56-4e08-94c7-e18af9bf829d" name="Color-Picker-Two" url="http://bootcamp-coders.cnm.edu/~jlott3/Color-Picker-Two">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/jlott3/public_html/Color-Picker-Two" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
