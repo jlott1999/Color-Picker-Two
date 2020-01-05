@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" uploadOnCheckin="c067a666-cd56-4e08-94c7-e18af9bf829d">
     <serverData>
       <paths name="Color-Picker-Two">
         <serverdata>
@@ -17,5 +17,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="Color-Picker-Two" />
   </component>
 </project>
